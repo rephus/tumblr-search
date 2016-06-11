@@ -1,0 +1,10 @@
+{  
+  "name": "tumblr-search",  
+  "dependencies" : {
+    "express" : "4.1.1",
+    "cheerio": "0.18.0"
+  },  
+  "engine": {  
+    "node": ">=0.10.25"  
+  }  
+}
